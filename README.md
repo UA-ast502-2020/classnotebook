@@ -5,8 +5,8 @@
 
 ## Location
 
- * When: 10am - 10:50am, Monday and Wednesday
- * Where: Steward 204 (or N305 if needed)
+ * When: 3pm - 3:50pm, Monday and Wednesday
+ * Where: Steward 208 (or N305 if needed)
 
 ## Class Materials
 
@@ -16,7 +16,7 @@
  
 ## Reference textbook
 [Ivezić, Connolly, VanderPlas & Gray: Statistics, Data Mining, and Machine Learning in Astronomy:
-A Practical Python Guide for the Analysis of Survey Data (Princeton University Press, 2014)](http://press.princeton.edu/titles/10159.html)
+A Practical Python Guide for the Analysis of Survey Data (Princeton University Press, 2014)](https://www.amazon.com/dp/0691198306/)
 
 
 ## Class Description
