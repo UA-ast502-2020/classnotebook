@@ -16,7 +16,7 @@
  
 ## Reference textbook
 [Ivezić, Connolly, VanderPlas & Gray: Statistics, Data Mining, and Machine Learning in Astronomy:
-A Practical Python Guide for the Analysis of Survey Data (Princeton University Press, 2014)](https://www.amazon.com/dp/0691198306/)
+A Practical Python Guide for the Analysis of Survey Data (Princeton University Press, 2019)](https://www.amazon.com/dp/0691198306/)
 
 
 ## Class Description
